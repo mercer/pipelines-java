@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/emilianlosneanu/Sandbox/_apis/build/status/mercer.pipelines-java)](https://dev.azure.com/emilianlosneanu/Sandbox/_build/latest?definitionId=1)
 
 # Contributing
 
